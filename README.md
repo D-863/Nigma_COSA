@@ -13,7 +13,7 @@ COSA is ***NOT*** Cross-Platform(For now), it does not Download or Install neede
 COSA is a project I have made *mostly* for myself, it will be the spine for every project I make.
 While I am quite intelligent in the subject of programming for my age(If I may say so) I am certainly no expert, just a human Soul that has passion for nerd stuff and insanity. 
 
-(Well- At least I *think* that I have a lot to learn, but maybe the path is short? ¯\_(ツ)_/¯)
+(Well- At least I *think* that I have a lot to learn, but maybe my path for new knowledge is short? Who knows. ¯\_(ツ)_/¯)
 
 ## MIT License
 main/[LICENSE](https://github.com/D-863/Nigma_COSA/blob/main/LICENSE)
