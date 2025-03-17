@@ -1,5 +1,5 @@
 # Nigma_COSA
-##(Currently in developement.)
+## (Currently in developement.)
 COSA is a C based *Cross Operating System API* in user space made for raw usage and performance yet staying simple, while being free as in both speech and beer(Libre and Gratis, use it with freedom and without charge).
 
 ## Overview
