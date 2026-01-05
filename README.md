@@ -9,13 +9,13 @@ The goal with nCOSA is to give a raw path of control towards the Kernel and *ava
 
 This allows Applications to fulfill their purpose without having to worry about the insane, hellish burdens and asterisks that comes with every OS, for example: The automation of knowing *What* Systems(Drivers/Packages) are available and *How* to use them, *Where* to do setup's of A->Z for said usage.. And so on.
 
-nCOSA is ***NOT*** Cross-Platform as that would be the purpose of nCPAA(Cross Platform Architecture API), it does not secretly Download/Install needed Systems on it's own nor is it a OS/Driver on it's own. It can be thought of as a pre-made System where it only compiles used functionality, it only *abstracts* what is already provided from the OS and Systems that's available inside the user space.
+nCOSA is ***NOT*** Cross-Platform as that would be the purpose of nCAPA(Cross Architecture Platform API), it does not secretly Download/Install needed Systems on it's own nor is it a OS/Driver on it's own. It can be thought of as a self-configuring System that only compiles used functionality that's not fundemental, it only *Abstracts* what is already provided from the OS and Systems that are available inside the user space and, if unable to perform said functionality, requests the user to install the missing System's it requires.
 
 ## Note:
-While nCOSA is a project I have made *mostly* for my projects, practically being the spine for every project I make, I will certainly Design and Document everything for anyone's delight.
+While nCOSA is a Module I have *mostly* made as the 'Base' of all my future projects(i.e. nCEngine), I will certainly Design and Document everything for anyone's delight.
 While my cognitive's grasp over the subjects of Programming and Computing is wast for my age(If I may say so), I am certainly no expert, just a individual that has passion for nerd stuff and insanity. 
 
-(Well- At least I *hope* that I have a lot to learn, but maybe my path for new knowledge is short? Who knows. ¯\_(ツ)_/¯)
+(Well- I at least *Hope* that I have a lot to learn, but maybe my path for new knowledge is short? Who knows, only time will tell. ¯\_(ツ)_/¯)
 
 ## MIT License
 main/[LICENSE](https://github.com/D-863/Nigma_COSA/blob/main/LICENSE)
